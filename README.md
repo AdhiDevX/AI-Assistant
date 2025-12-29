@@ -10,9 +10,9 @@ It combines offline NLP, voice control, gesture recognition, face recognition, a
 
 How to setup 
 
-1 run register_face.py
-2 run train_faces.py
-3 gui.py
+1 run register_face.py <br>
+2 run train_faces.py <br>
+3 gui.py <br>
 
 
 This currently under work it will be completed soon.
